@@ -6,7 +6,7 @@ const handler = async (req, res) => {
         const sp = SamlAuthenticator.Sp;
 
         const { extract } = await sp.parseLoginResponse(idp, 'post', req);
-        console.log(extract.attributes)
+
         const firstName = extract.attributes['User.FirstName'];
         const lastName = extract.attributes['User.LastName'];
         const email = extract.attributes['User.email'];
