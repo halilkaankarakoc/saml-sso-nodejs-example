@@ -6,10 +6,10 @@ const handler = async (req, res) => {
         const sp = SamlAuthenticator.Sp;
 
         const { extract } = await sp.parseLoginResponse(idp, 'post', req);
-
-        const firstName = extract.attributes.firstName;
-        const lastName = extract.attributes.lastName;
-        const email = extract.attributes.email;
+        console.log(extract.attributes)
+        const firstName = extract.attributes['User.FirstName'];
+        const lastName = extract.attributes['User.LastName'];
+        const email = extract.attributes['User.email'];
 
         res.render('auth-success', { title: 'Success', message: 'Successfully Authenticated!.', user: { firstName, lastName, email } });
     } catch (error) {
