@@ -1,6 +1,10 @@
 # nodejs-saml-sso-example
 
-# testing
+## Overview
+
+single sign on example using express, samlify and handlebars.
+
+## testing
 
 **username:** `user@esaml2.com`
 
