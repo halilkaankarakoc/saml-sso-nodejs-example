@@ -2,7 +2,7 @@
 
 ## Overview
 
-Single sign on example using express, samlify and handlebars.
+Single Sign On (SSO) SAML authentication example using nodejs, express, samlify and handlebars.
 
 ## Run (Local)
 
