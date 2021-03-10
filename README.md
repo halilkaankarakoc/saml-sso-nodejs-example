@@ -1,4 +1,4 @@
-# nodejs-saml-sso-example
+# saml-sso-nodejs-example
 
 ## Overview
 
