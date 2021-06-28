@@ -1,4 +1,4 @@
-# saml sso example using nodejs!
+# saml sso example using nodejs
 
 ## Overview
 
@@ -19,4 +19,4 @@ Then type `http://localhost:3000`, click `LOGIN` button and finally type the fol
 
 **password:** `Tk2eQc%9`
 
-this change made for branch `deneme2`
+this change made for branch `deneme1`
