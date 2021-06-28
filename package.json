@@ -1,7 +1,7 @@
 {
   "name": "nodejs-saml-authentication-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "saml auth example",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js"
