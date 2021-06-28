@@ -1,4 +1,5 @@
-# saml sso example(nodejs)
+# saml sso example (nodejs)
+
 ## Overview
 
 Single Sign On (SSO) SAML authentication example using nodejs, express, samlify and handlebars.
@@ -12,7 +13,7 @@ $ npm install
 $ npm start
 ```
 
-Then type `http://localhost:3000`, click `LOGIN` button and finally type the following credentials.
+Then type `http://localhost:3000`, click `LOGIN` button and finally type the following credentials!.
 
 **username:** `user@esaml2.com`
 
