@@ -8,10 +8,10 @@ Single Sign On (SSO) SAML authentication example using nodejs, express, samlify 
 ## Run (Local)
 
 ```
-$ git clone https://github.com/hkaankarakoc/nodejs-saml-sso-example.git
-$ cd nodejs-saml-sso-example
-$ npm install
-$ npm start
+    $ git clone https://github.com/hkaankarakoc/nodejs-saml-sso-example.git
+    $ cd nodejs-saml-sso-example
+    $ npm install
+    $ npm start
 ```
 
 
