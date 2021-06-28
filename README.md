@@ -15,6 +15,7 @@ $ npm start
 
 Then type `http://localhost:3000`, click `LOGIN` button and finally type the following credentials.
 
+-------------
 
 **username:** `user@esaml2.com`
 
