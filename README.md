@@ -1,5 +1,3 @@
-# saml sso example (nodejs)
-
 ## Overview
 
 Single Sign On (SSO) SAML authentication example using nodejs, express, samlify and handlebars.
